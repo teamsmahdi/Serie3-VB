@@ -1,0 +1,13 @@
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Serie 4\Serie 4\bin\Debug\Serie 4.exe.config
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Serie 4\Serie 4\obj\Debug\Serie 4.exe
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Serie 4\Serie 4\obj\Debug\Serie 4.xml
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Serie 4\Serie 4\obj\Debug\Serie 4.pdb
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Serie 4\Serie 4\bin\Debug\Serie 4.exe
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Serie 4\Serie 4\bin\Debug\Serie 4.pdb
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Serie 4\Serie 4\bin\Debug\Serie 4.xml
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Serie 4\Serie 4\obj\Debug\Serie_4.format.resources
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Serie 4\Serie 4\obj\Debug\Serie_4.Resources.resources
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Serie 4\Serie 4\obj\Debug\Serie 4-EXERCIE4.vbproj.GenerateResource.Cache
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Serie 4\Serie 4\obj\Debug\Serie_4.FicheProduit.resources
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Serie 4\Serie 4\obj\Debug\Serie_4.Exercice2.resources
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Serie 4\Serie 4\obj\Debug\Serie_4.Exercice3.resources
